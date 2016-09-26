@@ -1,4 +1,4 @@
-__author__ = 'hugowen'
+__author__ = 'hugo'
 # -*- coding:utf-8 -*-
 
 from bs4 import BeautifulSoup
